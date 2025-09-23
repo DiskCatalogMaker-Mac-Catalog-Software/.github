@@ -1,7 +1,7 @@
 # DiskCatalogMaker for Mac – Fast Disk Cataloging and Search Tool
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/9043/m/512x512bb-logo.webp?v=1752127949" alt="DiskCatalogMaker Logo" width="256" height="256">  
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/2c/79/1f2c7955-1146-123f-fe96-962b146bec52/DiskCatalogMakerSE.png/1200x600bf.png" alt="DiskCatalogMaker Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
@@ -20,7 +20,7 @@ With DiskCatalogMaker, you can quickly locate files without needing the original
 
 The application features a clean and intuitive interface, making it accessible for both beginners and advanced users. It runs efficiently on all modern Macs, including those with Apple Silicon processors, and is compatible with macOS Sonoma, Ventura, and earlier versions.
 
-![DiskCatalogMaker Interface](https://static.macupdate.com/screenshots/357417/m/800x500bb-screenshot.png?v=1757932682)
+![DiskCatalogMaker Interface](https://diskcatalogmaker.com/images/simpleview.png)
 
 ---
 
